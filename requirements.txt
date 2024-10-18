@@ -1,2 +1,10 @@
 streamlit
 pandas
+numpy
+matplotlib
+seaborn  
+requests
+statsmodels 
+prophet 
+sklearn
+ 
